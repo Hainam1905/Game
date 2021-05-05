@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 498f74780f87d164d8db8982a2347273
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectAbstract: {fileID: 219124389689643147, guid: d69f1057b18b605488142756dafce93c,
+      type: 3}
+  - enemyObject: {fileID: 716935891701881572, guid: 48e93f217ef25de4880c4f36f820ff49,
+      type: 3}
+  - shieldObject: {fileID: 8267690354620836719, guid: f5561bad3d733324497975b2106c57b2,
+      type: 3}
+  - enemyShieldObject: {fileID: 5468572915126679051, guid: 746188a73b69bda45ba9820b7f6969d3,
+      type: 3}
+  - fastCharacter: {fileID: 6029927756873528732, guid: 9f7811c3583798f4d9e3862131de2f4a,
+      type: 3}
+  - enemyFastCharacter: {fileID: 8346781239647852426, guid: 78734dd48cd10d34db8b410d10d7ee6e,
+      type: 3}
+  - shieldPrefab: {instanceID: 0}
+  - bulletPrefab: {fileID: 2111788751525385113, guid: 7b7ccdce923bdb44baeb891e1cde597a,
+      type: 3}
+  - powerBulletPrefab: {fileID: 863874786729769030, guid: bb2db5dadfcd02347b66ac426f89dd19,
+      type: 3}
+  - enemyBulletPrefab: {fileID: 2111788751525385113, guid: 2a059502339d71440acc9dadc4be6e62,
+      type: 3}
+  - enemyPowerBulletPrefab: {fileID: 863874786729769030, guid: a0b477b20fc4c0b429672428e14fd5cf,
+      type: 3}
+  - particle: {fileID: 3403273785575521757, guid: a3b7d4d92df16c947836d14421f367f1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
