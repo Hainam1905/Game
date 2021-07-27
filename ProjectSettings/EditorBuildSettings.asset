@@ -6,9 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LoadData.unity
+    guid: ed119772125fbf547924c30e454dd2d5
+  - enabled: 1
+    path: Assets/Scenes/TrainCharacter.unity
+    guid: 0bd14fc9da7ee7a4cb8dd87831a3e753
+  - enabled: 1
+    path: Assets/Scenes/TrainFastCharacter.unity
+    guid: f30604f940c6fa840b4cff7e81ab1304
+  - enabled: 1
+    path: Assets/Scenes/TrainShieldCharacter.unity
+    guid: d70e093c24a697643a7e1b78d799f3f1
+  - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Level2.unity
     guid: c8fc21e33f43055408319dd7483b5efa
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 3d0e965b19908cf4180e599821d0c6d2
   m_configObjects: {}
