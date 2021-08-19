@@ -1,5 +1,6 @@
 # GameTheWar
-Game chiến thuật. Được xây dựng bằng unity engine + c#
+Strategy game. Built by unity engine + c#
 
-Bạn có thể trải nghiệm game này ở đường link dưới đây, để lại cmt động viên mình với nhé, hihi.
+You can experience this game at this below link, please leave a comment to encourage me. 
+hope you like it <3
 https://hainam1905.itch.io/the-war
